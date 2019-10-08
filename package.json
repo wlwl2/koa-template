@@ -1,0 +1,23 @@
+{
+  "name": "koa-template",
+  "version": "1.0.0",
+  "description": "koa template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlwl2/koa-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wlwl2/koa-template/issues"
+  },
+  "homepage": "https://github.com/wlwl2/koa-template#readme",
+  "dependencies": {
+    "koa": "^2.8.2"
+  }
+}
